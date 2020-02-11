@@ -6,7 +6,7 @@ Os slides estão disponíveis neste repositório. Lá tem algumas informações 
 
 ### Sobre HTML
 
-*HyperText Transfer Protocol*, ou Protocolo de Transferência de HiperTexto. Linguagem de marcação utilizada para escrever conteúdos que são **interpretados** pelos browsers.
+*HyperText Markup Languange*, ou Linguagem de Marcação de HiperTexto. Linguagem de marcação utilizada para escrever conteúdos que são **interpretados** pelos browsers.
 
 Para mais informações sobre HTML, acesse algum dos links abaixo ou google por "HTML" ou "tutorial HTML":
 - https://developer.mozilla.org/pt-BR/docs/Web/HTML
