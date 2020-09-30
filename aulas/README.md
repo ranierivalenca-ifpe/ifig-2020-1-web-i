@@ -8,3 +8,4 @@
 - [formularios](formaularios) - Exemplos da utilização de um formulário para escrever dados em um arquivo
 - [headers](headers) - Manipulação de cabeçalhos em PHP
 - [crud](crud) - CRUD e o conceito de *Entidades*
+- [cookies](cookies) - Cookies e como **NÃO FAZER** uma autenticação
