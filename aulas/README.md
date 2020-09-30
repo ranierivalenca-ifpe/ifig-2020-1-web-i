@@ -9,3 +9,4 @@
 - [headers](headers) - Manipulação de cabeçalhos em PHP
 - [crud](crud) - CRUD e o conceito de *Entidades*
 - [cookies](cookies) - Cookies e como **NÃO FAZER** uma autenticação
+- [sessao](sessao) - Sessão e mecanismos de autenticação
